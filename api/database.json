@@ -1,0 +1,20 @@
+{
+    "plumbers": [],
+    "completions": [],
+    "requests": [
+        {
+            "id": 1,
+            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+            "address": "34445 Bianka Ports",
+            "budget": 400,
+            "neededBy": "2021-08-27"
+        },
+        {
+            "id": 2,
+            "description": "Solid Gold Toilet",
+            "address": "1337 Gamer Drive",
+            "budget": 420,
+            "neededBy": "2022-06-09"  
+        }
+    ]
+}
