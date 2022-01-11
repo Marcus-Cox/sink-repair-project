@@ -4,6 +4,8 @@ const applicationState = {
 
 const API = "http://localhost:8088"
 
+const mainContainer = document.querySelector("#container")
+//ask about mainContainer and why it's needed. Most likey comes from earlier part of lesson
 export const fetchRequests = () => {
     return fetch(`${API}/requests`)
         .then(response => response.json())
